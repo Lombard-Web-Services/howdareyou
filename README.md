@@ -17,7 +17,7 @@ chmod +x howdareyou
 
 ## Usage
 **howdareyou** is a commandline tool :
-```sh
+```
 ./howdareyou --help
 Usage: ./howdareyou [options] <audio_file.mp3/mp4>
 Options:
