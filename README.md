@@ -1,6 +1,6 @@
 # howdareyou
 Simple micro-tremor VSA tool , to detect voice stress, using Fast Fourier Transform.
-This script is an experimental tool that permit to assess veracity of a sound file based on stress analysis of micro-tremors.
+This script is an experimental tool that permit to assess veracity of a sound speech, in a  file based on stress analysis of micro-tremors.
 
 ## Dependencies
 Here are the following dependencies to be installed.
