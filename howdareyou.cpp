@@ -602,3 +602,4 @@ int main(int argc, char* argv[]) {
     process_audio(filename, enable_playback, realtime, generate_srt);
     return 0;
 }
+
