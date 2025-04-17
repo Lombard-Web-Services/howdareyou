@@ -5,7 +5,7 @@ This script is an experimental tool that permit to assess veracity of a speech, 
 ## Dependencies
 Here are the following dependencies to be installed.
 ```sh
-sudo apt install -y libavcodec-dev libavformat-dev libavutil-dev libfftw3-dev libao-dev libavdevice-dev libsdl2-dev
+sudo apt install -y libavcodec-dev libavformat-dev libavutil-dev libfftw3-dev libavdevice-dev libswresample-dev
 ```
 
 ## Compilation
