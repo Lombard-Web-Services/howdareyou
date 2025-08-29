@@ -5,7 +5,7 @@ This script is an experimental tool that permit to assess veracity of a speech, 
 
 
 
-## 💻 Dependencies 🛠
+## 💻 Dependencies 
 
 Here are the following dependencies to be installed.
 
