@@ -1,11 +1,11 @@
-# 🎤 howdareyou 🗣️
+# 🗣️ howdareyou 
 
 Simple VSA tool, to detect voice stress, using Fast Fourier Transform.
 This script is an experimental tool that permit to assess veracity of a speech, on a sound file and perform stress analysis of micro-tremors.
 
 
 
-## 💻 Dependencies 🛠️
+## 💻 Dependencies 🛠
 
 Here are the following dependencies to be installed.
 
@@ -14,7 +14,7 @@ sudo apt install -y libavcodec-dev libavformat-dev libavutil-dev libfftw3-dev li
 ```
 
 
-## ⚙️ Compilation ✨
+## ⚙️ Compilation 
 
 Use g++ to compile the cpp file.
 
@@ -24,7 +24,7 @@ chmod +x howdareyou
 ```
 
 
-## 🚀 Usage 📖
+## 🚀 Usage 
 
 **howdareyou** is a commandline tool :
 
@@ -46,7 +46,7 @@ Examples:
 
 
 
-## 📜 License & Author 🧑‍💻
+## 📜 License & Author 
 
 **License:** 
 
